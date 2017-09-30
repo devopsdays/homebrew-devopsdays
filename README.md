@@ -8,6 +8,6 @@ First, add this tap to your Brew. This will to clone the devopsdays tap reposito
 
     brew tap devopsdays/tap
 
-Now you will be able to work on those formulae as if there were in canonical Homebrew repository:
+Now you will be able to work on those formulae as if they were in canonical Homebrew repository:
 
     brew install devopsdays-cli
