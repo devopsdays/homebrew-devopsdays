@@ -1,9 +1,9 @@
 class DevopsdaysCli < Formula
   desc "Command-line utilities for the devopsdays website"
   homepage "https://www.devopsdays.org"
-  url "https://github.com/devopsdays/devopsdays-cli/releases/download/0.22.0/devopsdays-cli_0.22.0_darwin-amd64.tar.gz"
-  version "0.22.0"
-  sha256 "c6c706276b0ab1c6c16e680aa80e82d1eeb3e0bc26d39b4e80c44b20b742901f"
+  url "https://github.com/devopsdays/devopsdays-cli/releases/download/0.22.1/devopsdays-cli_0.22.1_darwin-amd64.tar.gz"
+  version "0.22.1"
+  sha256 "dc7077007dd2fedf1055e7114e3d37419160f9f2ad21a8c3b3c51a93ed9bf247"
 
   depends_on "git"
 
